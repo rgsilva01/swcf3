@@ -1,0 +1,24 @@
+[
+    {
+        "id": "9b2c72bd1683a409",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "63294210f1cd540c",
+        "type": "spinal-consumer",
+        "z": "9b2c72bd1683a409",
+        "outOfRangeOffset": "earliest",
+        "fromOffset": "latest",
+        "connection": [],
+        "broker": "0",
+        "x": 600,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    }
+]
